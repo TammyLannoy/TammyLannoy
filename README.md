@@ -1,9 +1,10 @@
 ## Hello, devs!!! I'm Tamiris! ✔️
-# 👋 *Welcome to my Github profile* ✨
+## 👋 *Welcome to my Github profile* ✨
 
 - A Passionate Programming Student.
 - FullStack Python Developer Student at Alura.
 - Graduate in Advertising.
+
 
 ## 👾 **Tools & Languages** 👾
 
@@ -29,6 +30,7 @@
 <a href="https://github.com/TammyLannoy">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TammyLannoy&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=TammyLannoy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 
 
 ## Reach me 📲
