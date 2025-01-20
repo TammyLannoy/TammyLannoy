@@ -1,5 +1,5 @@
 ## Hello, devs!!! I'm Tamiris! ✔️
-## 👋 *Welcome to my Github profile* ✨
+## 👋 *Welcome to my Github profile* 𖤐
 
 - A Passionate Programming Student.
 - FullStack Python Developer Student at Alura.
