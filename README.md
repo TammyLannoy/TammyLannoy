@@ -1,5 +1,7 @@
-## Hello, devs!!! I'm Tamiris! ✔️
-## 👋 *Welcome to my Github profile* 𖤐
+![Hello, Devs!! I'm Tamiris!](https://github.com/TammyLannoy/TammyLannoy/blob/main/𖤐.png)
+## *Hello, Devs! I'm Tamiris!*
+## 👋 *Welcome to my Profile* 𖤐
+
 
 - A Passionate Programming Student.
 - FullStack Python Developer Student at Alura.
